@@ -1,4 +1,4 @@
-
+![logo](https://github.com/bikashpoudel4/bikashpoudel4/blob/main/Banner2_link.png)
 <h1 align="center">Hi 👋, I'm Bikash Poudel</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
 
