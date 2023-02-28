@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikashpoudel4" alt="bikashpoudel4" /></a> </p>
 
-- I'm currently working with. **Python, JavaScript, Django, Docker, PostgreSQL, HTML5,etc. CSS**
+- I'm currently working with. **Python, JavaScript, Django, Docker, PostgreSQL, HTML5, CSS, etc.**
 
 - 📫 How to reach me **bikashpoudel4@gmail.com**
 
