@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **bikashpoudel4@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/bikash-poudel-77175a107](https://www.linkedin.com/in/bikash-poudel-77175a107)
+- 📄 Know about my experiences: **[https://www.linkedin.com/in/bikash-poudel-77175a107](https://www.linkedin.com/in/bikash-poudel-77175a107)**
 
 - ⚡ Fun fact **✔️**
 
