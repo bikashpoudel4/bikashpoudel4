@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashpoudel4&label=Profile%20views&color=0e75b6&style=flat" alt="bikashpoudel4" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikashpoudel4&theme=tokyonight" alt="bikashpoudel4" /></a> </p>
+<p align="left" width="70%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikashpoudel4&theme=tokyonight" alt="bikashpoudel4" /></a> </p>
 
 - I'm currently working with. **Python, JavaScript, Django, Docker, PostgreSQL, HTML5, CSS, etc.**
 
